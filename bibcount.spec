@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Counts bibliography entries by type
-Summary(pl):	Obliczanie wpisów bibliografii w zale¿no¶ci od rodzaju
+Summary(pl):	Zliczanie wpisów bibliografii w zale¿no¶ci od rodzaju
 Name:		bibcount
 Version:	1.0
 Release:	0.9
