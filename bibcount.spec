@@ -3,8 +3,8 @@ Summary:	Counts bibliography entries by type
 Summary(pl):	Zliczanie wpisów bibliografii w zale¿no¶ci od rodzaju
 Name:		bibcount
 Version:	1.0
-Release:	0.9
-License:	???
+Release:	1
+License:	unknown
 Group:		Applications
 Source0:	http://www.ecst.csuchico.edu/~jacobsd/bib/archives/%{name}
 # Source0-md5:	6ef4985c4e5fbd5780c6d186c17add08
