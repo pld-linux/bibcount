@@ -1,7 +1,7 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Counts bibliography entries by type
 Name:		bibcount
-Version:	0.1
+Version:	1.0
 Release:	0.9
 License:	???
 Group:		Applications
