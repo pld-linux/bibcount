@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Counts bibliography entries by type
-Summary(pl):	Zliczanie wpisÛw bibliografii w zaleøno∂ci od rodzaju
+Summary(pl.UTF-8):   Zliczanie wpis√≥w bibliografii w zale≈ºno≈õci od rodzaju
 Name:		bibcount
 Version:	1.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Counts bibliography entries by type.
 
-%description -l pl
-bibcount zlicza wpisy bibliografii w zaleøno∂ci od rodzaju.
+%description -l pl.UTF-8
+bibcount zlicza wpisy bibliografii w zale≈ºno≈õci od rodzaju.
 
 %prep
 
